@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 Serious backend developer working on some projects
-- 👯 I’m looking to collaborate on .NET position
 
 ### :hammer_and_wrench: Languages and Tools :
 
