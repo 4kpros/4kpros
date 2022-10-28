@@ -1,4 +1,4 @@
-## Hi 😎 I'm Abouar Prosper
+## 😎 Hi, I'm Abouar Prosper
 
 Serious developer working on some projects. Aspiring to become an .NET and Android expert.
 <!-- 
