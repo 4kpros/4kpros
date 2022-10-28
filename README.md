@@ -1,6 +1,6 @@
 ## Hi 👋
 
-- 🔭 I'm Abouar Prosper, Serious backend developer working on some projects. Aspiring to become an Expert in .NET and Android application.
+- 🔭 I'm Abouar Prosper, Serious developer working on some projects. Aspiring to become an Expert in .NET and Android application.
 
 ### :hammer_and_wrench: Languages and Tools :
 
