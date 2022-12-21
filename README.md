@@ -1,6 +1,6 @@
-<!-- ## 😎 Hi, I'm Abouar Prosper
+## Hi, I'm Abouar Prosper
 
-Serious developer working on some projects. Aspiring to become an .NET and Android expert. -->
+Serious developer working on some projects. Aspiring to become .NET and Android expert.
 <!-- 
 ### :hammer_and_wrench: Languages and Tools :
 
