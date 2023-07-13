@@ -1,6 +1,6 @@
-## Salut, Je m'appelle Abouar Prosper
+## Salut, Je suis Abouar Prosper
 
-Developpeur logiciel aspirant etre un expert .NET et Android.
+Développeur logiciel .NET et Android.
 <!-- 
 ### :hammer_and_wrench: Languages and Tools :
 
