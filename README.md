@@ -1,6 +1,6 @@
 ## Salut, Je suis Abouar Prosper
 
-Développeur logiciel .NET et Android.
+Développeur logiciel.
 <!-- 
 ### :hammer_and_wrench: Languages and Tools :
 
